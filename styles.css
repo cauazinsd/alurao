@@ -1,8 +1,8 @@
 body{
-   color: white;
+   color: yellow;
    background: black;
 }
 
 header {
-  border 
+  border: solid 2px yellow;
 }
