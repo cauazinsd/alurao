@@ -9,7 +9,7 @@
 
 
 <h1>Tipo Minato <h1>
-</p>#minato</p>
+<p>#minato</p>
 
 
                                                                                                                                             
