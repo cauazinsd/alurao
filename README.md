@@ -31,20 +31,20 @@
     <section class="categoria">
         <h2>Filmes e séries</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=wCMzj9Gzyt0&list">
-                <img src="https://img.youtube.com/vi/wCMzj9Gzyt0&list/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=wCMzj9Gzyt0">
+                <img src="https://img.youtube.com/vi/wCMzj9Gzyt0/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=sSLrBuDWnOw&list">
-                <img src="https://img.youtube.com/vi/sSLrBuDWnOw&list/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=sSLrBuDWnOw">
+                <img src="https://img.youtube.com/vi/sSLrBuDWnOw/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=ZAa0hJKXwZU&list">
-                <img src="https://img.youtube.com/vi/ZAa0hJKXwZU&list/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=ZAa0hJKXwZU">
+                <img src="https://img.youtube.com/vi/ZAa0hJKXwZU/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=9HqzHYmTnAA&list">
-                <img src="https://img.youtube.com/vi/9HqzHYmTnAA&list/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=9HqzHYmTnAA">
+                <img src="https://img.youtube.com/vi/9HqzHYmTnAA/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=Gne4T4B3zhg&list">
-                <img src="https://img.youtube.com/vi/Gne4T4B3zhg&list/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=Gne4T4B3zhg">
+                <img src="https://img.youtube.com/vi/Gne4T4B3zhg/maxresdefault.jpg" />
             </a>
         </div>
     </section>
