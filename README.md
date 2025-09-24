@@ -29,7 +29,7 @@
     </section>
 
     <section class="categoria">
-        <h2>Filmes e séries</h2>
+        <h2>Outras musicas</h2>
         <div class="categoria-videos">
             <a href="https://www.youtube.com/watch?v=wCMzj9Gzyt0">
                 <img src="https://img.youtube.com/vi/wCMzj9Gzyt0/maxresdefault.jpg" />
